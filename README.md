@@ -26,10 +26,11 @@ This is how you make a list, if you need one:
 
 A risk matrix table is often created when checking requirements, user stories and the critical/important cases needed to have an MVP (minimum viable product).
 
-| Syntax      | Use case 1  | Use case 1  |
-| ----------- | ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+|              | Use case 1  | Use case 2  | Use case 3  |
+| -----------  | ----------- | ----------- |-----------  |
+| Requirement 1| High risk   | Low risk    | Medium risk |
+| Requirement 2| Medium risk | High risk   | Medium risk | 
+| Requirement 3| Medium risk | High risk   | High risk   |
 
 ## Data sources and AI methods
 Often data is already in the requirements but needed to be entered in and use Naive Bayes classifier with machine learning and working with text
