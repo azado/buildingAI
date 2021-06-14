@@ -26,31 +26,22 @@ This is how you make a list, if you need one:
 
 A risk matrix table is often created when checking requirements, user stories and the critical/important cases needed to have an MVP (minimum viable product).
 
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Risk analys table](https://www.guru99.com/images/3-2016/032316_1114_RiskBasedTe16.png)
-
-## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-
-| Syntax      | Description |
+| Likehood    | Severity    |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
 
+## Data sources and AI methods
+Often data is already in the requirements but needed to be entered in and use Naive Bayes classifier with machine learning and working with text
+
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+This will not solve the automation but it will probably cut down on time on the regression testing and speeding upp the time to code the automation for the new product in question
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
-
+Both developer, testers and system owners need to be involved in this to get this working and of course an understanding of how AI works in reality.
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* As a senior test manager and tester, I can see the potential to use this in test management and risk analysis
