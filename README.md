@@ -4,21 +4,20 @@ Copy the template, paste it to your GitHub README and edit! -->
 
 # Project Title
 
-Final project for the Building AI course
+Risk analyse for test cases and AI
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
-
+Calculating risk analys for test cases/scenarios in a certain project.
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+* Test cases/scenarios can often be to much
+* Regression test of existing code/parts, do we need to regression test everything
+* Can it be automated or can AI learning by doing help solve this
 
 
 ## How is it used?
