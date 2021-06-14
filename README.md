@@ -26,9 +26,10 @@ This is how you make a list, if you need one:
 
 A risk matrix table is often created when checking requirements, user stories and the critical/important cases needed to have an MVP (minimum viable product).
 
-| Likehood    | Severity    |
-| ----------- | ----------- |
-| Header      | Title       |
+|             | Severity    |
+|             | ----------- |
+| Likehood    | Title       |
+| ----------- |       
 | Paragraph   | Text        |
 
 ## Data sources and AI methods
